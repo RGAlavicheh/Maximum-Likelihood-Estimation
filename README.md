@@ -19,7 +19,7 @@ Newton-Raphson:
 
 <span style="font-size: 24px"> $\theta_{k+1} = \theta_{k} - \frac{g(\theta_k)}{\frac{dg(\theta)}{d\theta}}, |\theta_{k+1} - \theta_{k}| < \epsilon$</span>
 
-<img src="https://github.com/RGAlavicheh/Maximum-Likelihood-Estimation/assets/94162828/b1db4504-7fa2-4d9b-bb1f-d4e6f0616099" alt="part1_simulation" width="700" height="400">
+<img src="https://github.com/RGAlavicheh/Maximum-Likelihood-Estimation/assets/94162828/b1db4504-7fa2-4d9b-bb1f-d4e6f0616099" alt="part1_simulation" width="600" height="400">
 
 <img src="https://github.com/RGAlavicheh/Maximum-Likelihood-Estimation/assets/94162828/6ece95e1-0944-4f71-8281-e8fa2eff2c76" alt="part2_simulation" width="600" height="400">
 
